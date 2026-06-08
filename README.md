@@ -50,7 +50,4 @@ pip install pyttsx3
 * Python
 * pyttsx3
 
-## License
-
-MIT License
 
