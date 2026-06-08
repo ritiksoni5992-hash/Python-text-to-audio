@@ -2,7 +2,7 @@ import pyttsx3
 engine = pyttsx3.init()
 
 # text file name
-text_file="C:\\Users\\Hii\\Documents\\Project F\\PY-edit-text-to-convert-to-speach.txt"
+text_file="Add-Text-File"
 
 # Audio file to save speach
 audio_file="PY-Audio.mp3"
